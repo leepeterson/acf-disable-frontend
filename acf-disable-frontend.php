@@ -1,12 +1,15 @@
 <?php
 /**
- * Plugin Name: Disable ACF on Frontend
- * Description: Disable ACF functions on the front-end of WordPress in order to provide a performance boost.
- * Version:     2.0
- * Author:      Lee Peterson
- * Author URI:  http://www.leepeterson.me
- * License:     MIT
- * License URI: http://www.opensource.org/licenses/mit-license.php
+ * Plugin Name:       Disable ACF on Frontend
+ * Plugin URI:        https://github.com/leepeterson/acf-disable-frontend
+ * Description:       Disable ACF functions on the front-end of WordPress in order to provide a performance boost.
+ * Version:           2.0.0
+ * Author:            Lee Peterson
+ * License:           GNU General Public License v2
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       acf-disable-frontend
+ * GitHub Plugin URI: https://github.com/leepeterson/acf-disable-frontend
+ * GitHub Branch:     master
  */
  
 /**
